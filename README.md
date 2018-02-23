@@ -18,14 +18,6 @@ Well, we cannot give you a certain answer, but let us introduce you with differe
     
     
 2. Old approach: [Build Your own Server] - Run your codebase on servers managed by you
-    1. SaaS-in-a-Box Frameworks:
-        1. PHP: 
-            1. [Laravel Spark](<https://spark.laravel.com>)
-        2. Node:
-            1. [Meatier - Battaries-included meteor solution](<https://github.com/mattkrick/meatier>)
-            2. [Hackathon Starter Kit](<https://github.com/sahat/hackathon-starter>)
-        3. RoR: 
-            1. [Bullet-train](<https://bullettrain.co>) - Personally I think it's too expensive.
     2. Independent solution: You could obviously write your own components and build your own template for a SaaS, if you're interested continue reading...
 
 **Whether you're build SaaS's business logic using using the new or old approach mentioned, you'd need to take care of the following:**
@@ -92,5 +84,14 @@ Many people decide to develop their front-end interfaces using JavaScript. Here'
     2. [AWS training and courses](<https://hackr.io/tutorials/learn-amazon-web-services-aws>)
     3. [A curated list of AWS resources to prepare for the AWS Certifications](<https://gist.github.com/leonardofed/bbf6459ad154ad5215d354f3825435dc>)
     4. [List of AWS terms for 2017](<https://github.com/agasthik/aws-csa-2017>)
+2. SaaS-in-a-Box Frameworks: (**Don't want to build your own solution?**)
+        1. PHP: 
+            1. [Laravel Spark](<https://spark.laravel.com>)
+        2. Node:
+            1. [Meatier - Battaries-included meteor solution](<https://github.com/mattkrick/meatier>)
+            2. [Hackathon Starter Kit](<https://github.com/sahat/hackathon-starter>)
+        3. RoR: 
+            1. [Bullet-train](<https://bullettrain.co>) - Personally I think it's too expensive.
+
          
 ### (Step 5 - Bonus) Contribute 😅
