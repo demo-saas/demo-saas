@@ -74,10 +74,10 @@ You decide what's the best for you to have your customers use your business logi
 Many people decide to develop their front-end interfaces using JavaScript. Here's a great [list](https://risingstars.js.org/2017/en/) for you to look at.
 
 ## (Step 4) Learn More!
-    1. AWS - Amazon Web Services. Biggest platform for cloud computing. Certificates are offered. Many build on it. Worth to learn.
-        1. [A two-day course teaching basics of Amazon Web Services](<https://github.com/gofore/aws-training>)
-        2. [AWS training and courses](<https://hackr.io/tutorials/learn-amazon-web-services-aws>)
-        3. [A curated list of AWS resources to prepare for the AWS Certifications](<https://gist.github.com/leonardofed/bbf6459ad154ad5215d354f3825435dc>)
-        4. [List of AWS terms for 2017](<https://github.com/agasthik/aws-csa-2017>)
+1. AWS - Amazon Web Services. Biggest platform for cloud computing. Certificates are offered. Many build on it. Worth to learn.
+    1. [A two-day course teaching basics of Amazon Web Services](<https://github.com/gofore/aws-training>)
+    2. [AWS training and courses](<https://hackr.io/tutorials/learn-amazon-web-services-aws>)
+    3. [A curated list of AWS resources to prepare for the AWS Certifications](<https://gist.github.com/leonardofed/bbf6459ad154ad5215d354f3825435dc>)
+    4. [List of AWS terms for 2017](<https://github.com/agasthik/aws-csa-2017>)
          
 ## (Step 5 - Bonus) Contribute 😅
