@@ -14,8 +14,7 @@ Well, we cannot give you a certain answer, but let us introduce you with differe
     2. Can build without serverless.
         1. [OpenWhisk](<https://openwhisk.apache.org>) - Deploy your own solution function server solution. Works w/ Serverless too!
         2. [OpenFaaS](<https://www.openfaas.com>)
-            1. [OpenFaaS: From Zero to Serverless in 60 Seconds Anywhere with Alex Ellis]
-(<https://www.youtube.com/watch?v=C3agSKv2s_w>)
+            1. [OpenFaaS: From Zero to Serverless in 60 Seconds Anywhere with Alex Ellis](<https://www.youtube.com/watch?v=C3agSKv2s_w>)
     
     
 2. Old approach: [Build Your own Server] - Run your codebase on servers managed by you
