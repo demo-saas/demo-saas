@@ -5,8 +5,19 @@ Where do I start when it comes to the 'technical details'?
 ## (Step 1) Choose your architecture for your business logic (Backend)
 Well, we cannot give you a certain answer, but let us introduce you with different architectures:
 
-1. Current approach: [Serverless](<https://serverless.com>) - Run your codebase in the cloud. Without a server, each application and data container runs individually nature.
+1. Current approach: Run your codebase in the stateless cloud. Doesn't depend on state, rather, it's event-driven. each function and data container runs individually nature. 
+    1. [Serverless](<https://serverless.com>) - Works with the following providers:
+        1. [AWS Lambda](<https://aws.amazon.com/lambda>)
+        2. [Google Cloud Functions](<https://cloud.google.com/functions>)
+        4. [Azure Functions](<https://azure.microsoft.com/en-us/services/functions/>)
 
+    2. Can build without serverless.
+        1. [OpenWhisk](<https://openwhisk.apache.org>) - Deploy your own solution function server solution. Works w/ Serverless too!
+        2. [OpenFaaS](<https://www.openfaas.com>)
+            1. [OpenFaaS: From Zero to Serverless in 60 Seconds Anywhere with Alex Ellis]
+(<https://www.youtube.com/watch?v=C3agSKv2s_w>)
+    
+    
 2. Old approach: [Build Your own Server] - Run your codebase on servers managed by you
     1. SaaS-in-a-Box Frameworks:
         1. PHP: 
@@ -67,6 +78,9 @@ Your stack will ultimately depend on your needs, but the following components ar
 7. [Multi-tennacy](<https://hackernoon.com/exploring-single-tenant-architectures-57c64e99eece>) - Allocating multiple containers for data and software on one server to allow for better scaling.
     1. [In the cloud](<https://hackernoon.com/multi-tenancy-after-10-years-of-cloud-computing-19de782ef899>)
     2. On your own server: Search for multitennacy for you favorite framework
+ 
+ 8. Monitoring - You have to know your use at any moment.
+    1. [Prometheus](<https://prometheus.io>)
 
 ## (Step 3) Develop your front end
 This could a mobile app that you're building, or maybe even a simple web app that can help your customers.
