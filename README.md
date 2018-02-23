@@ -9,11 +9,13 @@ Well, we cannot give you a certain answer, but let us introduce you with differe
 
 2. Old approach: [Build Your own Server] - Run your codebase on servers managed by you
     1. SaaS-in-a-Box Frameworks:
-        1. [PHP: Laravel Spark](<https://spark.laravel.com>)
-        2. [Node:]
+        1. PHP: 
+            1. [Laravel Spark](<https://spark.laravel.com>)
+        2. Node:
             1. [Meatier - Battaries-included meteor solution](<https://github.com/mattkrick/meatier>)
             2. [Hackathon Starter Kit](<https://github.com/sahat/hackathon-starter>)
-        3. RoR: Bullet-train
+        3. RoR: 
+            1. [Bullet-train](<https://bullettrain.co>) - Personally I think it's too expensive.
     2. Independent solution: You could obviously write your own components and build your own template for a SaaS, if you're interested continue reading...
 
 **Whether you're build a SaaS using the new or old approach mentioned, you'd need to take care of the following:**
